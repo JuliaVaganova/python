@@ -37,7 +37,6 @@ def my_func(x, y):
             while i < abs(y):
                 bottom = bottom * x
                 i = i + 1
-                #print(1 / bottom)
         else:
             print('Введены неверные значения')
             return
